@@ -1,0 +1,8 @@
+Episode 100	Average Score: 0.65
+Episode 200	Average Score: 3.84
+Episode 300	Average Score: 6.70
+Episode 379	Average Score: 9.06
+Environment solved in 279 episodes!	Average Score: 9.06
+
+
+785.1094946861267
